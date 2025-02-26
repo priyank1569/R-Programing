@@ -1,0 +1,7 @@
+in ubuntu use xl but extention is .xlsx
+
+computer ma opt/r_old zip file copy and  past in home folderand extract iton home folser 
+open it x86/3.6/ctrl+a and ctrl+c
+oprn r filder/x86 then ctrl+a move to tresh and then ctrl+v
+
+for import xl you need to go on environment then import dataset then from excel
